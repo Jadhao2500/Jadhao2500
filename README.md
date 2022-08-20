@@ -1,7 +1,7 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYQA7rHkxCbTrhZjCevxZLUZRuKO-Bgb-LIA&usqp=CAU)](https://rishavchanda.io)
+[![MasterHead](https://github.blog/wp-content/uploads/2020/12/layers-loop.h264.2020-12-21-11_16_56.gif?resize=640%2C409)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Saurabh Jadhao</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-<img  align=”right” alt=”coding” width=”400” src=”https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif”/>
+<img  align=”right” alt=”coding” width=”400” src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jadhao2500" alt="jadhao2500" /></a> </p>
 
@@ -29,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jadhao2500&show_icons=true&locale=en" alt="jadhao2500" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jadhao2500&" alt="jadhao2500" /></p>
-
