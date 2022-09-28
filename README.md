@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/214671270/23f88b80-ed18-11e9-8a21-0a636b193f08)](https://rishavchanda.io)
+<!-- [![MasterHead](https://repository-images.githubusercontent.com/214671270/23f88b80-ed18-11e9-8a21-0a636b193f08)](https://rishavchanda.io) -->
 
 <h1 align="center">Hi 👋, I'm Saurabh Jadhao</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **MERN development**
 
-- 👨‍💻 Here is my portfolio.. [https://saurabhjadhao-portfolio.netlify.app](https://saurabhjadhao-portfolio.netlify.app)
+- 👨‍💻 Here is my portfolio.. [./https://saurabhjadhao-portfolio.netlify.app](https://saurabhjadhao-portfolio.netlify.app)
 
 - 💬 Ask me about **MERN development**
 
 - 📫 How to reach me **saurabhjadhao001@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1N2hJBB0PdKHgoeOktAes9tjlYIVmhZkD/view?usp=sharing](https://drive.google.com/file/d/1N2hJBB0PdKHgoeOktAes9tjlYIVmhZkD/view?usp=sharing)
+- 📄 Resume [./https://drive.google.com/file/d/1N2hJBB0PdKHgoeOktAes9tjlYIVmhZkD/view?usp=sharing](https://drive.google.com/file/d/1N2hJBB0PdKHgoeOktAes9tjlYIVmhZkD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
