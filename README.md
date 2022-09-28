@@ -1,8 +1,8 @@
 <!-- [![MasterHead](https://repository-images.githubusercontent.com/214671270/23f88b80-ed18-11e9-8a21-0a636b193f08)](https://rishavchanda.io) -->
 
+<img  align=”right” alt=”coding” width=”400” src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <h1 align="center">Hi 👋, I'm Saurabh Jadhao</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-<img  align=”right” alt=”coding” width=”400” src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 🌱 I’m currently learning **MERN development**
 
