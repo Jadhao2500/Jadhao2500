@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **MERN development**
 
-- 👨‍💻 Here is my portfolio.. [./https://saurabhjadhao-portfolio.netlify.app](https://saurabhjadhao-portfolio.netlify.app)
+- 👨‍💻 Here is my portfolio.. [https://saurabhjadhao-portfolio.netlify.app](https://saurabhjadhao-portfolio.netlify.app)
 
 - 💬 Ask me about **MERN development**
 
 - 📫 How to reach me **saurabhjadhao001@gmail.com**
 
-- 📄 Resume [./https://drive.google.com/file/d/1N2hJBB0PdKHgoeOktAes9tjlYIVmhZkD/view?usp=sharing](https://drive.google.com/file/d/1N2hJBB0PdKHgoeOktAes9tjlYIVmhZkD/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1N2hJBB0PdKHgoeOktAes9tjlYIVmhZkD/view?usp=sharing](https://drive.google.com/file/d/1N2hJBB0PdKHgoeOktAes9tjlYIVmhZkD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
