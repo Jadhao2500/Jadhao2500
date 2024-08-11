@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Jadhao</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 🌱 I’m currently learning **MERN development**
+- 🌱 I’m currently working on **MERN development**
 
 - 👨‍💻 Here is my portfolio.. [https://saurabhjadhao-portfolio.netlify.app](https://saurabhjadhao-portfolio.netlify.app)
 
