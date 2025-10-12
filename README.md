@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently working on **MERN development**
 
-- 👨‍💻 Here is my portfolio.. [https://saurabhjadhao-portfolio.netlify.app](https://saurabhjadhao-portfolio.netlify.app)
-
 - 💬 Ask me about **MERN development**
 
 - 📫 How to reach me **saurabhjadhao001@gmail.com**
