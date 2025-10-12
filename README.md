@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **saurabhjadhao001@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1N2hJBB0PdKHgoeOktAes9tjlYIVmhZkD/view?usp=sharing](https://drive.google.com/file/d/1N2hJBB0PdKHgoeOktAes9tjlYIVmhZkD/view?usp=sharing)
+- 📄 Resume [[https://drive.google.com/file/d/1N2hJBB0PdKHgoeOktAes9tjlYIVmhZkD/view?usp=sharing])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
